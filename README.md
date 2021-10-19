@@ -22,26 +22,26 @@ Conexiones:
 
 Pantalla OLED SPI (7 pines):
 ----------------------------
-GND - GND
-VCC - 3V3
-D0  - D18 (gpio 18 )
-D1  - D23 (gpio 5 )
-RES - TX2 (gpio 17 )
-DC  - RX2 (gpio 16 )
-CS  - D5  (gpio 5 )
+GND -> GND
+VCC -> 3V3
+D0  -> D18 (gpio 18 )
+D1  -> D23 (gpio 5 )
+RES -> TX2 (gpio 17 )
+DC  -> RX2 (gpio 16 )
+CS  -> D5  (gpio 5 )
 
 BME 280:
 --------
-VCC - 3V3
-GND - GND
-SCL - D22 (gpio 22 )
-SDA - D21 (gpio 21 )
-CSE - n/a
-SDO - n/a
+VCC -> 3V3
+GND -> GND
+SCL -> D22 (gpio 22 )
+SDA -> D21 (gpio 21 )
+CSE -> n/a
+SDO -> n/a
 
 
-Pulsador gpio 13
------------------
+Pulsador -> (gpio 13 )
+----------------------
 
 Si esta información te resulta útil e interesante, invitame un cafecito!!!
 https://cafecito.app/marce_ferra
