@@ -25,7 +25,7 @@ Pantalla OLED SPI (7 pines):
 GND -> GND
 VCC -> 3V3
 D0  -> D18 (gpio 18 )
-D1  -> D23 (gpio 5 )
+D1  -> D23 (gpio 23 )
 RES -> TX2 (gpio 17 )
 DC  -> RX2 (gpio 16 )
 CS  -> D5  (gpio 5 )
